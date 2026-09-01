@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  
 ---
 "I’m Hunter, based in Adelaide, with over 10 years of experience across operations, fashion and retail, eCommerce, customer experience, and more recently, the NDIS sector.
 
